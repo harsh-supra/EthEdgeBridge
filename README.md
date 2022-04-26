@@ -1,1 +1,1 @@
-# EthEdgeBridge
+# edgeth_bridge
